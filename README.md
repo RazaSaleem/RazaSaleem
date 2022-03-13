@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at saleemrazatunio123@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1GUKtL0MSP-oCKCTOByPThWXOl84Dwlsp/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Computer Programmer" src="https://github.com/RazaSaleem/RazaSaleem/blob/main/assets/computerprogrammer.gif" align="right"/>
+<img alt="Computer Programmer" src="https://github.com/RazaSaleem/RazaSaleem/blob/main/assets/computerprogrammer.gif" width='300' align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -27,7 +27,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)&nbsp;\
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
